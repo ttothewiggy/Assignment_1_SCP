@@ -10,6 +10,11 @@ navToggle.addEventListener('click', function () {
     links.classList.toggle('show-links');
 });
 
+
+//FAILED ATTEMP AT USING JAVASCRIPT FOR DROPDOWN
+//IGNORE
+//used css instead
+
 // function for cataogue dropdown menu
 
 // function dropdown() {
